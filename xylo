@@ -36,4 +36,10 @@ class XyloPage extends StatelessWidget {
 In app/gradle
 DefautConfig{
 multiDexEnabled true
+
+
+1]audios folder creation in terminal and paste songs
+2]run flutter pub add dev assets_audio_player
+3]in pubsec dev add assets 
+4]android>app>src>build.gradle>multiDexEnabled true
 ````
